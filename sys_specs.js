@@ -1,4 +1,4 @@
-function sysSpecs() {
+function () {
 	const specs = #hs.sys.specs()
 
 	if (typeof specs != "string")
